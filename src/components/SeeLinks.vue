@@ -75,6 +75,13 @@
                             <p>Winslow</p>
                         </div></a
                     >
+                    <a href="https://aneko.moe">
+                        <div class="card">
+                            <mdui-avatar
+                                src="https://avatars.githubusercontent.com/u/50656066"
+                            ></mdui-avatar>
+                            <p>anyneko</p>
+                        </div></a
                     <a href="https://shef.cc/">
                         <div class="card">
                             <mdui-avatar
