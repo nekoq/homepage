@@ -81,7 +81,7 @@
                                 src="https://avatars.githubusercontent.com/u/50656066"
                             ></mdui-avatar>
                             <p>anyneko</p>
-                        </div></a
+                        </div></a>
                     <a href="https://shef.cc/">
                         <div class="card">
                             <mdui-avatar
